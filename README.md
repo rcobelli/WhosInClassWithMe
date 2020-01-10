@@ -1,7 +1,7 @@
 # Who's In Class With Me?
 ##### See who is in class with you
 
-![Graph](Screenshot.png)
+![Graph](screenshot.png)
 
 Python script to query the [Canvas LMS](https://www.instructure.com/canvas/) [API](https://canvas.instructure.com/doc/api/) to see if your friends are in class with you.
 
