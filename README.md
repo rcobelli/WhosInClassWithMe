@@ -12,6 +12,6 @@ __Limitation:__ This script will generate a number of false positives because it
    1. Navigate to `Account` > `Settings` > `Approved Integrations`
    2. Click `+ Create New Access Token`
    3. Be sure to leave the expiration date blank
-   4. Copy the token `api_key`
+   4. Copy the token into the `api_key` variable
 2. Populate the `friends` array with the last name of all your friends
-3. Run the python script
+3. Run the Python script
